@@ -51,7 +51,7 @@ def SelectSkill():
         if('连' in key or '齐' in key):
             pyautogui.click(winX+x, winY+winHeight/2)
             break
-        elif('子弹' in key and '电磁' not in key and '火焰' not in key and '冰' not in key): 
+        elif('子弹' in key and '电磁' not in key and '火焰' not in key and '急冻' not in key): 
             pyautogui.click(winX+x, winY+winHeight/2)
             break
     pyautogui.click(winX+winWidth/2,winY+winHeight/2)#点中间的
