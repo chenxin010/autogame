@@ -10,5 +10,5 @@
 
 使用方法：
 1.安装依赖pip install -r .\requirements.txt
-2.运行游戏，手动选择要刷的关卡
+2.运行微信小程序，手动选择要刷的关卡
 3.运行start.py
